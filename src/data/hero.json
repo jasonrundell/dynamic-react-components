@@ -1,0 +1,17 @@
+{
+  "title": {
+    "text": "This is a title from json"
+  },
+  "subtext": {
+    "text": "Tacos la croix viral, vegan helvetica poutine dreamcatcher hella coloring book vinyl health goth art party narwhal lumbersexual yr."
+  },
+  "image": {
+    "src": "https://images.pexels.com/photos/2917442/pexels-photo-2917442.jpeg?cs=srgb&dl=abstract-art-background-2917442.jpg&fm=jpg",
+    "alt": "ENTER"
+  },
+  "quote": {
+    "caption": "<p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p>",
+    "cite": "https://www.huxley.net/bnw/four.html",
+    "attribution": "—Aldous Huxley, Brave New World"
+  }
+}
